@@ -1,12 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Apache APISIX™ Blog</title>
+        <title>Apache APISIX® Blog</title>
         <link>https://apisix.apache.org/blog</link>
-        <description>Apache APISIX™ Blog</description>
-        <lastBuildDate>Mon, 08 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <description>Apache APISIX® Blog</description>
+        <lastBuildDate>Sat, 21 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[从新手村出来，我在 Apache APISIX 社区发出了第一个 PR]]></title>
+            <link>https://apisix.apache.org/blog/2021/08/21/interview-TuZhengsong</link>
+            <guid>从新手村出来，我在 Apache APISIX 社区发出了第一个 PR</guid>
+            <pubDate>Sat, 21 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[当我看到那个 issue 后，就有种强烈的想要参与到社区的冲动。看了社区的新手指南后，我像从新手村出来的勇者，准备打怪。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX 在移动云的应用]]></title>
+            <link>https://apisix.apache.org/blog/2021/08/09/Apache-APISIX-in-China-Mobile-Cloud</link>
+            <guid>Apache APISIX 在移动云的应用</guid>
+            <pubDate>Mon, 09 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[我们有幸采访了中国移动云能力中心的陈焱山，在采访中我们了解到中国移动公有云建设发展演进历程，了解了中国移动云为什么选择 Apache APISIX 作为负载均衡网关，并且知晓移动云后续的发展规划。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kong-To-APISIX 迁移工具]]></title>
+            <link>https://apisix.apache.org/blog/2021/08/05/Kong-to-APISIX</link>
+            <guid>Kong-To-APISIX 迁移工具</guid>
+            <pubDate>Thu, 05 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@Yiyiyimu, Apache APISIX committer from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Release Apache APISIX 2.8.0]]></title>
+            <link>https://apisix.apache.org/blog/2021/07/28/release-apache-apisix-2.8-en</link>
+            <guid>Release Apache APISIX 2.8.0</guid>
+            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@Serendipity96, Apache APISIX contributor from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX 2.8 正式发布，带来更多新功能！]]></title>
+            <link>https://apisix.apache.org/blog/2021/07/28/release-apache-apisix-2.8</link>
+            <guid>Apache APISIX 2.8 正式发布，带来更多新功能！</guid>
+            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@spacewander, Core developer of Apache APISIX from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[插件编排在 Apache APISIX 中的应用与实践]]></title>
+            <link>https://apisix.apache.org/blog/2021/07/27/use-of-plugin-orchestration-in-Apache-APISIX</link>
+            <guid>插件编排在 Apache APISIX 中的应用与实践</guid>
+            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@juzhiyuan, Apache APISIX PMC from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[深度剖析 Apache APISIX Mesh Agent]]></title>
+            <link>https://apisix.apache.org/blog/2021/07/16/Analyze-Apache-APISIX-Mesh-Agent-deeply</link>
+            <guid>深度剖析 Apache APISIX Mesh Agent</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@tokers, Apache APISIX PMC from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于 Apache APISIX，新浪微博 API 网关的定制化开发之路]]></title>
+            <link>https://apisix.apache.org/blog/2021/07/14/the-road-to-customization-of-Sina-Weibo-API-gateway-based-on-Apache-APISIX</link>
+            <guid>基于 Apache APISIX，新浪微博 API 网关的定制化开发之路</guid>
+            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[聂永，微博基础架构师，开源爱好者，爱折腾追求 Geek。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX has over 200 contributors in GitHub main repo! ]]></title>
+            <link>https://apisix.apache.org/blog/2021/07/06/celebrate-200-contributors</link>
+            <guid>Apache APISIX has over 200 contributors in GitHub main repo! </guid>
+            <pubDate>Tue, 06 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@Serendipity96, Apache APISIX contributor from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[差之毫厘：etcd 3 完美支持 HTTP 访问？]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/30/etcd3-support-HTTP-access-perfectly</link>
+            <guid>差之毫厘：etcd 3 完美支持 HTTP 访问？</guid>
+            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@spacewander, Core developer of Apache APISIX from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Release Apache APISIX 2.7.0]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/29/release-apache-apisix-2.7-en</link>
+            <guid>Release Apache APISIX 2.7.0</guid>
+            <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@Serendipity96, Apache APISIX contributor from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX 2.7.0-Release 正式发布]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/29/release-apache-apisix-2.7</link>
+            <guid>Apache APISIX 2.7.0-Release 正式发布</guid>
+            <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@spacewander, Core developer of Apache APISIX from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rancher × Apache APISIX: 极速部署更好用的开源网关和 Ingress Controller]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/23/deploy-great-open-source-gateway-and-ingress-controller-fast</link>
+            <guid>Rancher × Apache APISIX: 极速部署更好用的开源网关和 Ingress Controller</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@tao12345666333, Apache APISIX commiter from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用 Java 编写 Apache APISIX 插件]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/21/use-Java-to-write-Apache-APISIX-plugins</link>
+            <guid>使用 Java 编写 Apache APISIX 插件</guid>
+            <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@tzssangglass, Apache APISIX contributor from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX Ingress Controller 首个 GA 版本 v1.0 正式发布！]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/18/first-GA-version-v1.0-of-Apache-APISIX-Ingress-Controller-released</link>
+            <guid>Apache APISIX Ingress Controller 首个 GA 版本 v1.0 正式发布！</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@tao12345666333, Apache APISIX commiter from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX Dashboard 访问控制绕过漏洞公告（CVE-2021-33190）]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/17/Apache-APISIX-Dashboard-Access-Control-Bypass-Vulnerability-Announcement</link>
+            <guid>Apache APISIX Dashboard 访问控制绕过漏洞公告（CVE-2021-33190）</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@juzhiyuan, Apache APISIX PMC from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chaos Mesh 助力 Apache APISIX 提升稳定性]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/16/Chaos-Mesh-helps-Apache-APISIX-improve-stability</link>
+            <guid>Chaos Mesh 助力 Apache APISIX 提升稳定性</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@Yiyiyimu,Apache APISIX committer from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX not affected by NGINX CVE-2021-23017]]></title>
+            <link>https://apisix.apache.org/blog/2021/06/07/Apache-APISIX-not-affected-by-NGINX-CVE-2021-23017</link>
+            <guid>Apache APISIX not affected by NGINX CVE-2021-23017</guid>
+            <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@Serendipity96, Apache APISIX contributor from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于 Apache APISIX 实现的服务网格项目正式开源]]></title>
+            <link>https://apisix.apache.org/blog/2021/05/31/基于 Apache APISIX 实现的服务网格项目正式开源</link>
+            <guid>基于 Apache APISIX 实现的服务网格项目正式开源</guid>
+            <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@tokers, Apache APISIX PMC from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX 2.6.0-Release 正式发布]]></title>
+            <link>https://apisix.apache.org/blog/2021/05/25/Apache APISIX 2.6.0-Release 正式发布</link>
+            <guid>Apache APISIX 2.6.0-Release 正式发布</guid>
+            <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@spacewander, Core developer of Apache APISIX from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Traffic Split in Apache APISIX Ingress Controller]]></title>
+            <link>https://apisix.apache.org/blog/2021/03/27/traffic-split-in-apache-apisix-ingress-controller</link>
+            <guid>Traffic Split in Apache APISIX Ingress Controller</guid>
+            <pubDate>Sat, 27 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@tokers, Apache APISIX Committer from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Get Front-End Test Coverage with Cypress]]></title>
+            <link>https://apisix.apache.org/blog/2021/03/02/get-front-end-test-coverage-with-cypress</link>
+            <guid>Get Front-End Test Coverage with Cypress</guid>
+            <pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@LiteSun, Apache APISIX Committer from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Install Apache APISIX from Helm Charts]]></title>
+            <link>https://apisix.apache.org/blog/2021/02/26/install-apache-apisix-from-helm-charts</link>
+            <guid>Install Apache APISIX from Helm Charts</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@tokers, Apache APISIX Committer from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
         <item>
             <title><![CDATA[Stable Product Delivery with Cypress]]></title>
             <link>https://apisix.apache.org/blog/2021/02/08/stable-product-delivery-with-cypress</link>
@@ -19,7 +180,14 @@
             <link>https://apisix.apache.org/blog/2021/01/21/run-ingress-apisix-on-amazon-eks</link>
             <guid>Run Ingress APISIX on Amazon EKS</guid>
             <pubDate>Thu, 21 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[@Chao Zhang, Apache APISIX Comitter from Shenzhen Zhiliu Technology Co.]]></description>
+            <description><![CDATA[@Chao Zhang, Apache APISIX Committer from Shenzhen Zhiliu Technology Co.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Apache APISIX 贡献者专访 | 普华永道华南数据安全与隐私保护团队高级安全顾问王鹏诚]]></title>
+            <link>https://apisix.apache.org/blog/2021/01/11/interview-Apache-APISIX-contributor-Wang-Pengcheng-Senior-Security-Advisor-of-PwC-South-China-Data-Security-and-Privacy-Protection-Team</link>
+            <guid>Apache APISIX 贡献者专访 | 普华永道华南数据安全与隐私保护团队高级安全顾问王鹏诚</guid>
+            <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[@moonming, Apache APISIX PMC Chair from Shenzhen Zhiliu Technology Co.]]></description>
         </item>
         <item>
             <title><![CDATA[初探 Kubernetes Service APIs]]></title>
