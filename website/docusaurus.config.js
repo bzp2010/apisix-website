@@ -230,6 +230,14 @@ module.exports = {
       },
     ],
     [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "releases",
+        routeBasePath: "releases",
+        path: "releases",
+      },
+    ],
+    [
       "@docusaurus/plugin-content-docs",
       {
         id: "docs-apisix",
