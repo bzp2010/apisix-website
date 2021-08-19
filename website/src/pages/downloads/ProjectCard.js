@@ -67,6 +67,9 @@ const ProjectCard = (props) => {
     });
   }, []);
 
+  let versionCode = version.replace(/[.]/g, "");
+  versionCode = versionCode.length === 2 ? versionCode + "0" : versionCode;
+
   return (
     <Card>
       <LeftSide>
@@ -94,7 +97,7 @@ const ProjectCard = (props) => {
           </LeftSideLink>
           <LeftSideLink
             className="downloads-leftsidelink"
-            href={`https://github.com/${githubRepo}/blob/${githubBranch}/CHANGELOG.md`}
+            href={`https://github.com/${githubRepo}/blob/${githubBranch}/CHANGELOG.md#${versionCode}`}
             target="_blank"
           >
             <IconDocumentText /> CHANGELOG
